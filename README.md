@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Kunalsonar007
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **My Skills**
 
 - 📫 How to reach me **kunalwankhede958@gmail.com**
 
