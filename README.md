@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native, Angular Js, Vue Js**
 
-- 👯 I’m working with **SBIT Infotech**
+- 👯 I’m working with **SBIT Infotech, UAE**
 
 - 👨‍💻 All of my projects are available at https://github.com/Kunalsonar007
 
