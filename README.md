@@ -27,7 +27,7 @@
     <a href="https://instagram.com/kunal_sonar_19" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="kunal_sonar_19" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/@kunalwankhede958" target="blank"><img align="center"
+    <a href="https://www.hackerrank.com/kunalwankhede958?hr_r=1" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="@kunalwankhede958" height="30" width="40" /></a>
 </p>
