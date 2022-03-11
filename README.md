@@ -109,6 +109,6 @@
 <br/>
 <br/>
 <br/>
-<h2>📊 My Contribution Graph </h2><br>
+<h2📈 My Contribution Graph </h2><br>
 <br/>
 <a href="https://github.com/Kunalsonar007"><img alt="Kunal Sonar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunalsonar007&bg_color=000000&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false&border-radius=50px" /></a>
