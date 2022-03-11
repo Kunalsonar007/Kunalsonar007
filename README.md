@@ -21,7 +21,7 @@
     <a href="https://codepen.io/kunalsonar007" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="@kunalsonar007" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/user:18430665" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/18430665/kunal-sonar" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="user:18430665" height="30" width="40" /></a>
     <a href="https://instagram.com/kunal_sonar_19" target="blank"><img align="center"
