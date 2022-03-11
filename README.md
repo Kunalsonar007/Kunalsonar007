@@ -118,9 +118,11 @@
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a> </p>
 
-<p>&nbsp;<img align="center"
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsonar007&"
+        alt="kunalsonar007" /></p><br>
+<h2>📊 My Github Stats </h2><br>
+<p align="left">&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=kunalsonar007&show_icons=true&locale=en"
         alt="kunalsonar007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsonar007&"
-        alt="kunalsonar007" /></p>
+ <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
