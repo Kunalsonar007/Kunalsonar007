@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunal Sonar!</h1>
-<h3 align="center">A Passionate Full Stack & Android Developer from India</h3>
-<img src="https://camo.githubusercontent.com/fe47707654fd7231f0a55ab6ff0cbb7796aae78610cb94c444a5ea5823a28dc4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3236303331322f73637265656e73686f74732f323535333733372f616e746e6f6465736b64622e676966" width="500px" align="right"><br>
+<h3 align="center">A Passionate Full Stack & Android Developer from India</h3><br><br><br>
+<img src="https://camo.githubusercontent.com/fe47707654fd7231f0a55ab6ff0cbb7796aae78610cb94c444a5ea5823a28dc4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3236303331322f73637265656e73686f74732f323535333733372f616e746e6f6465736b64622e676966" width="480px" align="right">
 <h3 align="left">🙋‍♂️ About Me</h3>
 
 - 🔭 I’m currently working on **Android Development**
+
+- ⚒️ I’m working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **React Native, Angular Js, Vue Js**
 
@@ -18,7 +20,7 @@
 - ⚡ Fun fact **I am Mad About Programming**
 
 <br>
-<h3 align="left">🚀 Languages and Tools:</h3>
+<h2 align="left">🚀 Languages and Tools:</h2>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -77,7 +79,7 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>&nbsp; </p>
 <br>
-<h3 align="left">🧑‍💻 Connect with me:</h3>
+<h2 align="left">🧑‍💻 Connect with me:</h2>
 <p align="left">
     <a href="https://codepen.io/kunalsonar007" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -92,6 +94,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="@kunalwankhede958" height="30" width="40" /></a>
 </p>
+<br>
+<h2 align="left"> 🔥 My Github Streaks:</h2>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsonar007&"
         alt="kunalsonar007" /></p><br>
 <h2>📊 My Github Stats </h2><br>
