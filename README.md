@@ -7,7 +7,7 @@
 
 - ⚒️ I’m working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **React Native, Angular Js, Vue Js**
+- 🌱 I’m currently learning **MongoDB, Angular Js, Vue Js**
 
 - 👯 I’m working with **SBIT Infotech, UAE**
 
