@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Sonar!</h1>
+<h1 align="center">Hi 👋, I'm Kunal Wankhede!</h1>
 <h3 align="center">A Passionate Full Stack & Android Developer from India</h3><br><br><br>
 <img src="https://camo.githubusercontent.com/fe47707654fd7231f0a55ab6ff0cbb7796aae78610cb94c444a5ea5823a28dc4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3236303331322f73637265656e73686f74732f323535333733372f616e746e6f6465736b64622e676966" width="480px" align="right">
 <h3 align="left">🙋‍♂️ About Me</h3>
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **My Skills**
 
-- 📫 How to reach me **kunalsonar1507@gmail.com**
+- 📫 How to reach me **kunalwankhede958@gmail.com**
 
 - ⚡ Fun fact **I am Mad About Programming**
 - ⚡ **Portfolio** - ***https://kunalsonar.netlify.app/***
