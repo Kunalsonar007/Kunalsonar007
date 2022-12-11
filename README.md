@@ -21,7 +21,8 @@
 - ⚡ **Portfolio** - ***https://kunalsonar.netlify.app/***
 
 <br>
-<h2 align="left">🚀 Languages and Tools:</h2>
+<h2 align="left">🚀 Languages and Tools : </h2>
+    <br>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -80,7 +81,7 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>&nbsp; </p>
 <br>
-<h2 align="left">🧑‍💻 Connect with me:</h2>
+<h2 align="left">🧑‍💻 Connect with me :</h2>
 <p align="left">
     <a href="https://codepen.io/kunalsonar007" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -96,16 +97,16 @@
             alt="@kunalwankhede958" height="30" width="40" /></a>
 </p>
 <br>
-<h2 align="left"> 🔥 My Github Streaks:</h2>
+<h2 align="left"> 🔥 My Github Streaks :</h2>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsonar007&"
         alt="kunalsonar007" /></p><br>
-<h2>📊 My Github Stats </h2><br>
+<h2>📊 My Github Stats : </h2><br>
 <br/>
 <p align="left">
     <a href="https://github.com/Kunalsonar007">
  <img alt="Kunal Sonar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kunalsonar007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Kunalsonar007">
- <img alt="Kunal Sonar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="420px" /></a>
+ <img alt="Kunal Sonar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="420px"  /></a>
  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -114,6 +115,6 @@
 <br/>
 <br/>
 <br/>
-<h2>📈 My Contribution Graph </h2><br>
+<h2>📈 My Contribution Graph :</h2><br>
 <br/>
-<a href="https://github.com/Kunalsonar007"><img alt="Kunal Sonar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunalsonar007&bg_color=000000&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false&border-radius=50px" /></a>
+<a href="https://github.com/Kunalsonar007"><img alt="Kunal Sonar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kunalsonar007&bg_color=000000&color=ffffff&line=ff1af0&point=ffffff&area=true&hide_border=true" /></a>
