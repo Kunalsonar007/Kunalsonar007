@@ -3,11 +3,11 @@
 <img src="https://user-images.githubusercontent.com/96248293/206900853-4088d414-1243-436c-bece-fc48eb31c4c8.png" width="55%" align="right">
 <h3 align="left">🙋‍♂️ About Me</h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **IOS Development**
 
-- ⚒️ I’m working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- ⚒️ I’m working on **[Crypto-Hunter](https://cryptohunter111.netlify.app/)**
 
-- 🌱 I’m currently learning **MongoDB, Angular Js, Vue Js**
+- 🌱 I’m currently learning **Machine Learning, A.I Development**
 
 - 👯 I’m working with **SBIT Infotech, UAE**
 
