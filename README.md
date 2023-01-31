@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/96248293/206900853-4088d414-1243-436c-bece-fc48eb31c4c8.png" width="60%" align="right">
+<img src="https://user-images.githubusercontent.com/96248293/206900853-4088d414-1243-436c-bece-fc48eb31c4c8.png" width="60%" align="center">
+<br>
 <h1 align="center">Hi 👋, I'm Kunal Wankhede!</h1>
 <h3 align="center">A Passionate Full Stack & Android Developer from India</h3><br><br><br>
 
