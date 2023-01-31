@@ -18,7 +18,7 @@
 - 📫 How to reach me **kunalwankhede958@gmail.com**
 
 - ⚡ Fun fact **I am Mad About Programming**
-- ⚡ **Portfolio** - ***https://kunalsonar.netlify.app/***
+- ⚡ **Portfolio** - ***https://kunal007.netlify.app/***
 
 <br>
 <h2 align="left">🚀 Languages and Tools : </h2>
