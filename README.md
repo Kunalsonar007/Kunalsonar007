@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am Mad About Programming**
  
-- ⚡ **Portfolio** - ***https://kalyani-portfolio.vercel.app/***
+- ⚡ **Portfolio** - ***https://krazyykunal.vercel.app/***
 
 <br>
 <h2 align="left">🚀 Languages and Tools : </h2>
