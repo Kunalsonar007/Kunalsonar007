@@ -121,4 +121,4 @@
 <br/>
 <br/>
 <h2>📈 My GitHub Contributions</h2>
-(https://github.com/Kunalsonar007/Kunalsonar007/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Kunalsonar007/Kunalsonar007/blob/output/github-contribution-grid-snake.svg">
