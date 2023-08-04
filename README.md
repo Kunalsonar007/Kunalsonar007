@@ -120,6 +120,5 @@
 <br/>
 <br/>
 <br/>
-<h2>📈 My Contribution Graph :</h2><br>
-<br/>
-<a href="https://github.com/Kunalsonar007"><img alt="Kunal Sonar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kunalsonar007&bg_color=000000&color=ffffff&line=ff1af0&point=ffffff&area=true&hide_border=true" /></a>
+<h2>📈 My GitHub Contributions</h2>
+(https://github.com/Kunalsonar007/Kunalsonar007/blob/output/github-contribution-grid-snake.svg)
