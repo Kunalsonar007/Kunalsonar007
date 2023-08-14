@@ -113,10 +113,10 @@
                 <br />
                 <p align="left">
                     <a href="https://github.com/Kunalsonar007">
-  <img height=200 width="500px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=Kunalsonar007&show_icons=true&count_private=true&rank_icon=github" />
+  <img height=200 width="400px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=Kunalsonar007&show_icons=true&count_private=true&rank_icon=github" />
 </a>
 <a href="https://github.com/Kunalsonar007">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunalsonar007&layout=compact&langs_count=8&card_width=320" />
+  <img height="200px" width="330px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunalsonar007&layout=compact&langs_count=8&card_width=320" />
 </a>
 <br><br>
 <a href="https://github.com/Kunalsonar007/Crypto-Hunter">
