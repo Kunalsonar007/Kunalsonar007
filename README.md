@@ -7,10 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-21-blue" />
-    <img src="https://img.shields.io/badge/Focus-Software%Development-brightgreen" />
+    <img src="https://img.shields.io/badge/Age-21-blueviolet" />
+    <img src="https://img.shields.io/badge/Focus-Software%20Development-green" />
     <img src="https://img.shields.io/badge/Lives-Mumbai-success" />
-    <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-brightgreen" />
+    <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
 </p>
 <hr>
 <h1 align="center">Hiii <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
