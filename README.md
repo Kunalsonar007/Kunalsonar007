@@ -4,9 +4,6 @@
 </div>
 <br>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
-</p>
-<p align="center">
     <img src="https://img.shields.io/badge/Age-21-blueviolet" />
     <img src="https://img.shields.io/badge/Focus-Software%20Development-green" />
     <img src="https://img.shields.io/badge/Lives-Mumbai-success" />
