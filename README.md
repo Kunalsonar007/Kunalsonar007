@@ -1,18 +1,18 @@
 <div align="center">
-    <img src="https://i.ibb.co/3fc9TBX/Green-White-Geometric-Personal-Photo-Linked-In-Banner.jpg" width="100%"
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQF_GfWD067eaA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730789495262?e=1738195200&v=beta&t=u6ia109eQa0WsXYrvflV7XkwB81t_Dr5v1tznMNL7AI" width="100%"
         align="center">
 </div>
 <br>
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-21-blueviolet" />
+    <img src="https://img.shields.io/badge/Age-22-blueviolet" />
     <img src="https://img.shields.io/badge/Focus-Software%20Development-green" />
     <img src="https://img.shields.io/badge/Lives-Mumbai-success" />
     <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
 </p>
 <hr>
-<h1 align="center">Hiii <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
-        width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚 </h1>
-<h3 align="center">𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 | 𝖠𝖨/𝖬𝖫 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍𝗂𝖼</h3>
+<h1 align="center">𝙃𝙚𝙮𝙮 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
+        width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚  </h1>                                                                                   
+<h3 align="center">Software Engineer | 𝖠𝖨/𝖬𝖫 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍𝗂𝖼</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/kunal-wankhede-295680249/" target="blank">
         <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
