@@ -53,14 +53,12 @@
     </h2>
 </em>
 <br>
-    ✔ Pronouns: He/ Him Or 𝗧𝗲𝗮𝗺-𝗠𝗮𝗸𝗲𝗿<br><br>
-    ✔ I’m currently Developing 𝗔𝗜 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁<br><br>
-    ✔ I’m currently learning 𝗢𝗽𝗲𝗻𝗔𝗽𝗶 𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴<br><br>
-    ✔ I'm quite good at 𝗡𝗼𝗱𝗲𝗝𝘀, 𝗥𝗲𝗮𝗰𝘁 𝗝𝘀, 𝗢𝗽𝗲𝗻𝗔𝗽𝗶, 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃<br><br>
-    ✔ I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br><br>
+    ✔ I’m currently Developing 𝗔𝗜 𝗧𝘂𝘁𝗼𝗿<br><br>
+    ✔ I’m currently learning 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴<br><br>
+    ✔ I'm quite good at 𝗠𝗘𝗥𝗡, 𝗔𝗥 / 𝗩𝗥 𝗗𝗲𝘃<br><br>
     ✔ I’m looking for help for learning 𝗜𝗢𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
-    ✔ Have a look over my personal website https://krazyykunal.vercel.app/<br><br>
-    ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br>
+    ✔ Have a look over my personal website https://devkrazyykunal.vercel.app/<br><br>
+    ✔ Ask me about anything, I am happy to help....<br><br>
 <br>
 <em align="left">
     <h2>
@@ -102,10 +100,10 @@
 </a>
 <br><br>
 <a href="https://github.com/Kunalsonar007/Crypto-Hunter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Crypto-Hunter">     
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Llama-Tutor">     
     </a>
  <a href="https://github.com/Kunalsonar007/Weather-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Weather-App">     
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Interstellar">     
     </a>
     </p>
     <br/>  
