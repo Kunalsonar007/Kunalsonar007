@@ -10,19 +10,22 @@
     <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
 </p>
 <hr>
-<h1 align="center">𝙃𝙚𝙮𝙮 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
-        width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚  </h1>                                                                                   
-<h3 align="center">Software Engineer @snap Inc</h3>
+<!-- <h1 align="center">𝙃𝙚𝙮𝙮 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
+        width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚  </h1> -->
+        <div align="center">
+         <img src="https://sdk.bitmoji.com/render/panel/10223302-100258542913_13-s5-v1.png?transparent=1&palette=1&scale=2" width="20%">
+         </div>
+<h4 align="center">Software Engineer @snap Inc</h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/krazyykunal/" target="blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/3669/3669739.png" alt="linkedin" height="30" width="30" />
-    </a> -
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/3669/3669739.png" alt="linkedin" height="30" width="30" style="margin-right:50px"/>
+    </a>
     <a href="https://www.instagram.com/krazyykunal/" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="instagram" height="30" width="30" />
-    </a> -
+    </a>
     <a href="mailto: kunalwankhede958@gmail.com">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/6244/6244438.png" height="30" width="30" alt="gmail" />
-    </a> -
+    </a>
     <a href="https://linktr.ee/krazyyykunal" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/4050/4050374.png" alt="Linktree" height="30" width="30" />
     </a>
