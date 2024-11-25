@@ -102,8 +102,8 @@
 <a href="https://github.com/Kunalsonar007/Crypto-Hunter">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Llama-Tutor">     
     </a>
- <a href="https://github.com/Kunalsonar007/Weather-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Interstellar">     
+ <a href="https://github.com/Kunalsonar007/3D-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=3D-Portfolio">     
     </a>
     </p>
     <br/>  
