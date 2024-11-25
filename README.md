@@ -12,27 +12,16 @@
 <hr>
 <h1 align="center">𝙃𝙚𝙮𝙮 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif"
         width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚  </h1>                                                                                   
-<h3 align="center">Software Engineer | 𝖠𝖨/𝖬𝖫 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍𝗂𝖼</h3>
+<h3 align="center">Software Engineer @snap Inc</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/kunal-wankhede-295680249/" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
-    </a>&nbsp;
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/3669/3669739.png" alt="linkedin" height="30" width="30" />
+    </a>
     <a href="https://www.instagram.com/krazyykunal_21/" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram" height="30" width="30" />
-    </a>&nbsp;
-    <a href="https://www.hackerrank.com/Kunalsonar007?hr_r=1" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="hackerrank" height="30"
-            width="30" />
-    </a>&nbsp;
-    <a href="https://stackoverflow.com/users/18430665/krazyy-kunal" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" alt="stack-overflow" height="30"
-            width="30" />
-    </a>&nbsp;
-    <a href="https://www.threads.net/@krazyykunal_21" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/threads.svg" alt="threads" height="30" width="30" />
-    </a>&nbsp;
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="instagram" height="30" width="30" />
+    </a>
     <a href="mailto: kunalwankhede958@gmail.com">
-        <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="30" alt="gmail" />
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/6244/6244438.png" height="30" width="30" alt="gmail" />
     </a>&nbsp;
     <a href="https://linktr.ee/krazyyykunal" target="_blank">
         <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="Linktree" height="30" width="30" />
