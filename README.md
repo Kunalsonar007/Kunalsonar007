@@ -3,9 +3,9 @@
         align="center">
 </div>
 <br>
-<p align="center">
+ <p align="center">
     <img src="https://img.shields.io/badge/Age-22-blueviolet" />
-    <img src="https://img.shields.io/badge/Focus-Software%20Development-green" />
+    <img src="https://img.shields.io/badge/Focus-AR%20Development-green" />
     <img src="https://img.shields.io/badge/Lives-Mumbai-success" />
     <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
 </p>
@@ -27,22 +27,21 @@
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/4050/4050374.png" alt="Linktree" height="30" width="30" />
     </a>
 </p>
-<br><br>
+<br>
 <p align="center">
     <big>
-        𝖳𝗁𝗂𝗌 𝗂𝗌 𝖬𝖤, 𝖪𝗎𝗇𝖺𝗅 𝖶𝖺𝗇𝗄𝗁𝖾𝖽𝖾 𝖺𝗄𝖺 <b>𝗞𝗿𝗮𝘇𝘆𝘆 𝗞𝘂𝗻𝗮𝗹</b>&nbsp; <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20" /><br>
-        𝖠 𝗉𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 <b>𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</b> 
-        & <b>𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁</b>&nbsp;
+        𝖳𝗁𝗂𝗌 𝗂𝗌 me, 𝖪𝗎𝗇𝖺𝗅 𝖶𝖺𝗇𝗄𝗁𝖾𝖽𝖾 𝖺𝗄𝖺 <b>𝗞𝗿𝗮𝘇𝘆𝘆 𝗞𝘂𝗻𝗮𝗹</b>&nbsp; <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20" /><br>
+        𝖠 𝗉𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 <b>𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</b>&nbsp;
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true"
             width="36px">
-        &nbsp;<br><br> 𝖨 𝗅𝗂𝗄𝖾 𝗍𝗈 𝖢𝗈𝖽𝖾, 𝖣𝖾𝗌𝗂𝗀𝗇,
+        &nbsp;<br>𝖨 𝗅𝗂𝗄𝖾 𝗍𝗈 𝖢𝗈𝖽𝖾, 𝖣𝖾𝗌𝗂𝗀𝗇,
         𝖨𝗇𝗇𝗈𝗏𝖺𝗍𝖾 𝖺𝗇𝖽 <u><b> 𝗘𝘅𝗽𝗲𝗿𝗶𝗺𝗲𝗻𝘁</b></u>
           <img
             src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true"
             width="30px">
     </big>
     <br><br>
-    ​<em>
+    ​<em style="font-size:20px">
         🇹​​🇭​​🇴​​🇺​​🇬​​🇭​​🇹​ ⦂ ❝​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇼​​🇭​​🇮​​🇱​​🇪​ ​🇭​​🇴​​🇵​​🇮​​🇳​​🇬​ & ​🇭​​🇺​​🇸​​🇹​​🇱​​🇮​​🇳​​🇬​ !!!❝
     </em></b>
 </p>
@@ -102,7 +101,7 @@
 <a href="https://github.com/Kunalsonar007/Crypto-Hunter">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=Llama-Tutor">     
     </a>
- <a href="https://github.com/Kunalsonar007/3D-Portfolio">
+<a href="https://github.com/Kunalsonar007/3D-Portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunalsonar007&repo=3D-Portfolio">     
     </a>
     </p>
