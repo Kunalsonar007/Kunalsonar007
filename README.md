@@ -16,13 +16,13 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/kunal-wankhede-295680249/" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/3669/3669739.png" alt="linkedin" height="30" width="30" />
-    </a>
+    </a> -
     <a href="https://www.instagram.com/krazyykunal_21/" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="instagram" height="30" width="30" />
-    </a>
+    </a> -
     <a href="mailto: kunalwankhede958@gmail.com">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/6244/6244438.png" height="30" width="30" alt="gmail" />
-    </a>
+    </a> -
     <a href="https://linktr.ee/krazyyykunal" target="_blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/4050/4050374.png" alt="Linktree" height="30" width="30" />
     </a>
