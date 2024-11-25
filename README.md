@@ -22,13 +22,9 @@
     </a>
     <a href="mailto: kunalwankhede958@gmail.com">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/6244/6244438.png" height="30" width="30" alt="gmail" />
-    </a>&nbsp;
+    </a>
     <a href="https://linktr.ee/krazyyykunal" target="_blank">
-        <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="Linktree" height="30" width="30" />
-    </a>&nbsp;
-    <a href="https://krazyykunal.vercel.app/" target="_blank">
-        <img align="center" src="https://simpleicons.org/icons/kahoot.svg" alt="Akashchowrasia" height="30"
-            width="30" />
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/4050/4050374.png" alt="Linktree" height="30" width="30" />
     </a>
 </p>
 <br><br>
