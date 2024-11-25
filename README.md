@@ -14,10 +14,10 @@
         width="30px">, 𝙄'𝙢 𝙆𝙪𝙣𝙖𝙡 𝙒𝙖𝙣𝙠𝙝𝙚𝙙𝙚  </h1>                                                                                   
 <h3 align="center">Software Engineer @snap Inc</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/kunal-wankhede-295680249/" target="blank">
+    <a href="https://www.linkedin.com/in/krazyykunal/" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/3669/3669739.png" alt="linkedin" height="30" width="30" />
     </a> -
-    <a href="https://www.instagram.com/krazyykunal_21/" target="blank">
+    <a href="https://www.instagram.com/krazyykunal/" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="instagram" height="30" width="30" />
     </a> -
     <a href="mailto: kunalwankhede958@gmail.com">
