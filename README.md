@@ -85,8 +85,7 @@
                 <em>
                 <h2 align="left"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> Github Streaks :</h2>
                     </em>
-                <p align="left"><img align="center"
-                        src="https://github-readme-streak-stats.herokuapp.com/?user=ovinduwijethunge&"
+                <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalsonar007&"
                         alt="kunalsonar007" />
                 </p><br>
                 <em>
