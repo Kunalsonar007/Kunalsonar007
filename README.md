@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co/SVQK76K/Green-White-Geometric-Personal-Photo-Linked-In-Banner-transformed.jpg" width="100%" style="border-radius:50%"
+    <img src="https://pbs.twimg.com/profile_banners/1421827953911074818/1748544114/1080x360" width="100%" style="border-radius:50%"
         align="center">
 </div>
 <br>
